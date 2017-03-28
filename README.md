@@ -10,4 +10,4 @@
 <ing src="https://github.com/dsube8039/The-will-to-Kill/blob/master/images/Juggernaut_roundhouse%201.gif" width="200px">
 
 <h3>Resources</h3>
-<a href=
+<a href="https://www.python.org/downloads/"> Python Download</a>
